@@ -1,0 +1,41 @@
+site_name: Portfolio
+site_author: Marcin Szczęsny
+site_description: Portfolio moich projektów i notebooków Data Science i AI
+site_url: https://heyagotoai.github.io/ds_ai_portfolio/
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: blue
+      accent: deep-purple
+
+  font:
+    text: Roboto
+  icon:
+    logo: fontawesome/brands/python
+
+nav:
+  - Strona główna: index.md
+  - Projekty:
+    - 💻 Aplikacje:
+      - Audionotatki: audionotatki/index.md
+      - Find Friends EDA interaktywne: friends/index.md
+      - PiktoBajki: piktobajki/index.md
+      - Półmaraton: polmaraton/index.md
+      - Zestawienia: zestawienia/index.md
+    - 📈 Analizy EDA:
+      - Iris: iris/index.md
+      - Titanic: titanic/index.md
+    - Projekty w toku:
+      - w przygotowaniu...: w_przygotowaniu/index.md
+    #     - Chatbot: chatbot/index.md
+    #     - JustJoinIt: justjoinit/index.md
+    #     - Lokalny LLM: lokalny_llm/index.md
+    #     - Rachunki: rachunki/index.md
+    #     - Welcome Survey: welcome_survey/index.md
+  - Kontakt: contact.md
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html

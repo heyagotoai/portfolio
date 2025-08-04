@@ -26,8 +26,6 @@ hide:
 
 ### Interaktywna aplikacja Streamlit, która analizuje swobodny opis biegacza za pomocą modelu GPT-4o-mini – automatycznie rozpoznaje imię, wiek, płeć i czas na 5 km. Waliduje oraz uzupełnia brakujące informacje przyjaznymi podpowiedziami AI. Przewiduje indywidualny czas półmaratonu na podstawie wytrenowanego modelu ML (na rzeczywistych danych Półmaratonu Wrocławskiego z lat 2023-2024, w sumie ponad 20tys. uczestników z obu lat). Prezentuje wynik w czytelnym formacie (hh:mm:ss) oraz statystyki: tempo na kilometr, średnią prędkość oraz kategorię poziomu biegacza. Generuje spersonalizowane, motywujące podsumowanie i wskazówki treningowe z wykorzystaniem OpenAI. Loguje dane anonimowo do Langfuse w celu monitoringu jakości modelu. Obsługuje wielopoziomowe źródła modelu (S3 → Supabase Storage → lokalnie) i jest w pełni konteneryzowana (Docker). Użytkownik otrzymuje natychmiastową, angażującą prognozę swojego wyniku oraz konkretne porady treningowe – wszystko w jednym, eleganckim interfejsie webowym. Aktualnie aplikacja działa w Streamlit Cloud i Supabase Storage, pierwotnie była funkcjonowała na Digital Ocean.
 
-#sprawdzic czy langfuse dziala
-
 <div class="grid" markdown>
     Wykorzystane technologie i biblioteki
     * Python

@@ -48,22 +48,22 @@ Od ponad 20 lat doświadczenia w sprzedaży, od 6 miesięcy aktywnie rozwijam um
 
 ## Wybrane Projekty
 
-### 🎨 [PiktoBajki - obrazkowe opowiadania](/ds_ai_portfolio/piktobajki/)
+### 🎨 [PiktoBajki - obrazkowe opowiadania](/portfolio/piktobajki/)
 Aplikacja do generowania interaktywnych historii obrazkowych z wykorzystaniem zaawansowanych algorytmów AI. Integracja z OpenAI API (GPT-4o, DALLE-3, TTS), system subskrypcji i zarządzanie zasobami użytkownika.
 
 **Technologie:** `Python` `Streamlit` `OpenAI API` `GPT-4o` `DALLE-3` `Supabase`
 
-### 🎤 [Audionotatki](/ds_ai_portfolio/audionotatki/)
+### 🎤 [Audionotatki](/portfolio/audionotatki/)
 Aplikacja do nagrywania notatek głosowych z automatyczną transkrypcją do tekstu. Wykorzystuje model OpenAI Whisper, wektorową bazę danych oraz semantyczne wyszukiwanie notatek.
 
 **Technologie:** `Python` `Streamlit` `OpenAI Whisper` `Qdrant` `Embeddings`
 
-### 🏃 [Półmaraton - predykcja czasu](/ds_ai_portfolio/polmaraton/)
+### 🏃 [Półmaraton - predykcja czasu](/portfolio/polmaraton/)
 Interaktywna aplikacja przewidująca czas półmaratonu na podstawie wytrenowanego modelu ML. Analiza danych 20+ tysięcy uczestników, integracja z GPT dla spersonalizowanych porad treningowych.
 
 **Technologie:** `Python` `Streamlit` `CatBoost` `PyCaret` `OpenAI` `Langfuse`
 
-### 👥 [Find Friends](/ds_ai_portfolio/friends/)
+### 👥 [Find Friends](/portfolio/friends/)
 Narzędzie EDA do znajdowania osób o podobnych zainteresowaniach. Wykorzystuje algorytmy clusteringu do identyfikacji grup użytkowników o zbliżonych preferencjach.
 
 **Technologie:** `Python` `Streamlit` `PyCaret Clustering` `Plotly` `Pandas`

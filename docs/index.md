@@ -19,8 +19,8 @@ Od dwóch dekad z pasją buduję relacje biznesowe, skutecznie rozwijając sprze
 
 ### 💼 Doświadczenie
 - **20+ lat** w handlu i sprzedaży
-- **6 miesięcy** intensywnej nauki Data Science/AI
-- **Członek elitarnej grupy Masterclass** - rozszerzenie kursu Data Science
+- **10 miesięcy** intensywnej nauki Data Science/AI
+- **6 miesięcy - członek elitarnej grupy Masterclass** - rozszerzenie kursu Data Science
 
 ---
 

@@ -2,7 +2,8 @@
 
 **Data Scientist | AI Developer | ML Engineer**
 
-Od dwóch dekad z pasją buduję relacje biznesowe, skutecznie rozwijając sprzedaż i pozyskując nowych klientów w obecnej pracy zawodowej. Moje doświadczenie to połączenie handlowej intuicji z umiejętnością utrzymania długofalowych relacji opartych na zaufaniu. Od 10 miesięcy aktywnie zdobywam doświadczenie w Data Science i AI. Przez ostatnie 6 miesięcy rozwijam swoje umiejętności jako uczestnik elitarnej grupy Masterclass, współtworzę innowacyjne startupy w obszarze analizy daych i sztucznej inteligencji.
+Od dwóch dekad z pasją buduję relacje biznesowe, skutecznie rozwijając sprzedaż i pozyskując nowych klientów w obecnej pracy zawodowej. Moje doświadczenie to połączenie handlowej intuicji z umiejętnością utrzymania długofalowych relacji opartych na zaufaniu, wspieranych analizą danych, która pozwalała skutecznie realizować cele sprzedażowe i optymalizować działania. Od 10 miesięcy aktywnie zdobywam doświadczenie w Data Science i AI. Przez ostatnie 6 miesięcy rozwijam swoje umiejętności jako uczestnik elitarnej grupy Masterclass, współtworzę innowacyjne startupy w obszarze analizy danych i sztucznej inteligencji.
+
 
 ---
 

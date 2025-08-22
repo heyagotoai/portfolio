@@ -30,7 +30,7 @@ hide:
     <img src="2025.png" width=450>
 </div>
 
-### Wyniekiem działania aplikacji jest na przykład poniższy interaktywny wykres
+### Wynikiem działania aplikacji jest na przykład poniższy interaktywny wykres
 
 <img src="wykres.png" width=900>
 

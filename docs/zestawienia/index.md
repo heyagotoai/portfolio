@@ -25,9 +25,14 @@ hide:
 
 ### Narzędzie to jest przygotowane indywidualnie pod specyficzne raporty jakie otrzymuje klient ze swojego systemu (plik tekstowy, bez tabel, kolumn, czy separatorów), przykład:
 
-<img src="2024.png" width=800>
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+    <img src="2024.png" width=450>
+    <img src="2025.png" width=450>
+</div>
 
-<img src="2025.png" width=800>
+### Wyniekiem działania aplikacji jest na przykład poniższy interaktywny wykres
+
+<img src="wykres.png" width=900>
 
 ### Jest też system rejestracji i logowania użytkownika (Supabase Authentication), jednak na potrzeby prezentacji aplikacji wyłączony. Przykład:
 

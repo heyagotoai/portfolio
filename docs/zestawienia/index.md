@@ -21,7 +21,7 @@ hide:
         🔗 Zestawienia
     </a>
 </div>
-### Interaktywna aplikacja do analizy sprzedaży, zbudowana w Streamlit. Po wczytaniu plików przez użytkownika przetwarza je za pomocą narzędzi (Pandas/NumPy) i prezentuje czytelne statystyki oraz porównawcze wykresy (Plotly), Umożliwia filtrowanie okresów oraz dynamiczne wizualizacje zmian w przychodach, marży i wolumenie klientów między dwoma wczytanymi raportami. Na potrzeby prezentacji automatycznie pobiera pliki raportów (Supabase Storage). 
+### Interaktywna aplikacja do analizy sprzedaży, zbudowana w Streamlit. Po wczytaniu plików przez użytkownika przetwarza je za pomocą narzędzi (Pandas/NumPy) i prezentuje czytelne statystyki oraz porównawcze wykresy (Plotly), umożliwia filtrowanie okresów oraz dynamiczne wizualizacje zmian w przychodach, marży i wolumenie klientów między dwoma wczytanymi raportami. Na potrzeby prezentacji automatycznie pobiera pliki raportów (Supabase Storage). 
 
 ### Narzędzie to jest przygotowane indywidualnie pod specyficzne raporty jakie otrzymuje klient ze swojego systemu (plik tekstowy, bez tabel, kolumn, czy separatorów), przykład:
 

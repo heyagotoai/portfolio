@@ -91,7 +91,7 @@ Narzędzie EDA do znajdowania osób o podobnych zainteresowaniach. Wykorzystuje 
 
 ### Linki
 🔗 **GitHub:** [Link do profilu](https://github.com/heyagotoai)  
-💼 **LinkedIn:** [Link do profilu](https://linkedin.com/in/marcin-szczęsny-3aa43a2b1)  
+💼 **LinkedIn:** [Link do profilu](https://www.linkedin.com/in/marcin-szczesny-ai/)  
 
 ---
 
